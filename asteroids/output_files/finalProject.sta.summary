@@ -1,0 +1,185 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'vga_controller:vgaControl|disp_ena'
+Slack : -12.500
+TNS   : -276.112
+
+Type  : Slow 1200mV 85C Model Setup 'hw_image_generator:gameLogic|lives[0]'
+Slack : -9.160
+TNS   : -164.544
+
+Type  : Slow 1200mV 85C Model Setup 'genMhz:divFrec|clk25mhz'
+Slack : -6.837
+TNS   : -207.092
+
+Type  : Slow 1200mV 85C Model Setup 'relojlento:relojLento|led'
+Slack : -5.679
+TNS   : -512.119
+
+Type  : Slow 1200mV 85C Model Setup 'input_clk'
+Slack : -4.268
+TNS   : -38.360
+
+Type  : Slow 1200mV 85C Model Hold 'hw_image_generator:gameLogic|lives[0]'
+Slack : -0.153
+TNS   : -0.188
+
+Type  : Slow 1200mV 85C Model Hold 'relojlento:relojLento|led'
+Slack : 0.283
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'genMhz:divFrec|clk25mhz'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'input_clk'
+Slack : 0.634
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'vga_controller:vgaControl|disp_ena'
+Slack : 2.119
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'input_clk'
+Slack : -3.000
+TNS   : -33.866
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'relojlento:relojLento|led'
+Slack : -1.403
+TNS   : -159.942
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'genMhz:divFrec|clk25mhz'
+Slack : -1.403
+TNS   : -61.732
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'vga_controller:vgaControl|disp_ena'
+Slack : 0.332
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'hw_image_generator:gameLogic|lives[0]'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'vga_controller:vgaControl|disp_ena'
+Slack : -11.840
+TNS   : -257.418
+
+Type  : Slow 1200mV 0C Model Setup 'hw_image_generator:gameLogic|lives[0]'
+Slack : -8.407
+TNS   : -154.011
+
+Type  : Slow 1200mV 0C Model Setup 'genMhz:divFrec|clk25mhz'
+Slack : -6.193
+TNS   : -187.044
+
+Type  : Slow 1200mV 0C Model Setup 'relojlento:relojLento|led'
+Slack : -5.242
+TNS   : -462.871
+
+Type  : Slow 1200mV 0C Model Setup 'input_clk'
+Slack : -3.867
+TNS   : -33.251
+
+Type  : Slow 1200mV 0C Model Hold 'hw_image_generator:gameLogic|lives[0]'
+Slack : -0.252
+TNS   : -0.510
+
+Type  : Slow 1200mV 0C Model Hold 'relojlento:relojLento|led'
+Slack : 0.238
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'genMhz:divFrec|clk25mhz'
+Slack : 0.308
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'input_clk'
+Slack : 0.585
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'vga_controller:vgaControl|disp_ena'
+Slack : 1.927
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'input_clk'
+Slack : -3.000
+TNS   : -33.866
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'relojlento:relojLento|led'
+Slack : -1.403
+TNS   : -159.942
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'genMhz:divFrec|clk25mhz'
+Slack : -1.403
+TNS   : -61.732
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'hw_image_generator:gameLogic|lives[0]'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'vga_controller:vgaControl|disp_ena'
+Slack : 0.423
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'vga_controller:vgaControl|disp_ena'
+Slack : -5.193
+TNS   : -113.215
+
+Type  : Fast 1200mV 0C Model Setup 'hw_image_generator:gameLogic|lives[0]'
+Slack : -3.908
+TNS   : -62.922
+
+Type  : Fast 1200mV 0C Model Setup 'genMhz:divFrec|clk25mhz'
+Slack : -2.463
+TNS   : -65.779
+
+Type  : Fast 1200mV 0C Model Setup 'relojlento:relojLento|led'
+Slack : -1.889
+TNS   : -156.764
+
+Type  : Fast 1200mV 0C Model Setup 'input_clk'
+Slack : -1.456
+TNS   : -5.367
+
+Type  : Fast 1200mV 0C Model Hold 'relojlento:relojLento|led'
+Slack : 0.110
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'hw_image_generator:gameLogic|lives[0]'
+Slack : 0.135
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'genMhz:divFrec|clk25mhz'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'input_clk'
+Slack : 0.245
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'vga_controller:vgaControl|disp_ena'
+Slack : 0.840
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'input_clk'
+Slack : -3.000
+TNS   : -25.760
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'relojlento:relojLento|led'
+Slack : -1.000
+TNS   : -114.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'genMhz:divFrec|clk25mhz'
+Slack : -1.000
+TNS   : -44.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'hw_image_generator:gameLogic|lives[0]'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'vga_controller:vgaControl|disp_ena'
+Slack : 0.226
+TNS   : 0.000
+
+------------------------------------------------------------
