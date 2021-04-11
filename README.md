@@ -3,7 +3,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## Acerca del proyecto
+## Acerca del proyecto 
 
 El presente repositorio es el proyecto final de la materia de Diseño Digital VLSI
 
